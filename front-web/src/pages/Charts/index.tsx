@@ -21,6 +21,7 @@ const initialPieData = {
     series: []
 }
 
+
 const BASE_URL = 'https://sds1-thalles.herokuapp.com';
 
 const Charts = () => {
